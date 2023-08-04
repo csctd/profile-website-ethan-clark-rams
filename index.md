@@ -1,10 +1,6 @@
-# Page Title
+# Heyyy
 
-A short introduction for the top of your main page
-
-
-More content you want on your page
-
+A site about me.
 
 
 <!-- use this to make a menu when you add more pages -->
