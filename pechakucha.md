@@ -1,5 +1,5 @@
 #pechakucha
 
-![I'm Huge](_static/img/IMG_0759.JPG)
+![Hillside Swole](_static/img/IMG_0759.JPG "Big Man")
 
-![Me at work](_static/img/image0.jpeg)
+![Target](_static/img/image0.jpeg "Working Through TD")
