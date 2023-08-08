@@ -1,4 +1,4 @@
-#pechakucha
+# Pechakucha
 
 ![Hillside Swole!](/_static/img/IMG_0759.JPG "Big Man")
 
