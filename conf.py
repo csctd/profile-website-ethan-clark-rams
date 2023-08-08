@@ -78,7 +78,7 @@ html_sidebars = {
     "news/**": ['ablog/postcard.html', 'ablog/recentposts.html', 'ablog/archives.html'],
     "blog": ['tagcloud.html', 'archives.html'],
     "blog/**": ['postcard.html', 'recentposts.html', 'archives.html'],
-    "pechakucha":[pechakucha.md]
+    "":[]
 }
 
 
