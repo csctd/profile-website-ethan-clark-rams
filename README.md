@@ -1,6 +1,6 @@
 # Profile Website
 
-Welcome to my profile webiste, Rams and/or Potential Employers!
+Welcome to my profile website, Rams and/or Potential Employers!
 <!-- enter your target audience after the comma above -->
 
 Since you're here, you might be: 
