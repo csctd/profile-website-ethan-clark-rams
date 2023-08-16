@@ -1,25 +1,29 @@
-.profile-pic {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-  }
-  .bio-info {
-    margin-top: 20px;
-  }
-  .name {
-    font-size: 18px;
-    font-weight: bold;
-  }
-  .major {
-    font-size: 16px;
-  }
-  .year {
-    font-size: 14px;
-  }
-  .focusareas {
-    font-size: 12px;
-  }
-  .whatido {
-    font-size: 14px;
-  }
-  
+<figure class="profile-pic">
+  <img src="{{ pathto('_static/img/profile.png', 1) }}"
+  alt="URI Chest"/>
+</figure>
+
+<aside class="bio-info">
+  <div class="name">
+      {{ name }}
+  </div>
+
+  <div class="major">
+      {{ major }}
+  </div>
+
+  <div class="year">
+      URI Class of {{ 2027 }}
+  </div>
+
+  <div class="focusareas">
+      {{ keywords }}
+  </div>
+
+  <div class="whatido">
+      {{ tagline }}
+  </div>
+
+
+
+</aside>
