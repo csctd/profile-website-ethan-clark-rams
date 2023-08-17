@@ -9,5 +9,6 @@ A site about me.
 :hidden:
 
 pechakucha
+calculator
 ```
 
