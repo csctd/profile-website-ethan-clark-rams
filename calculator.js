@@ -1,5 +1,3 @@
-javascript
-
 const display = document.getElementById('display');
 
 
