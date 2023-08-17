@@ -8,6 +8,7 @@ A site about me.
 :maxdepth: 2
 :hidden:
 
-pechakucha
+Pechakucha
+Calculator
 ```
 
