@@ -10,5 +10,3 @@ A site about me.
 
 Pechakucha
 Calculator
-```
-
